@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "product": "Laptop",
+    "brand": "TechMaster",
+    "model": "ProBook X5",
+    "price": 1299.99,
+    "specs": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "15.6-inch 4K",
+      "graphics": "NVIDIA GeForce RTX 3060"
+    },
+    "features": ["Backlit Keyboard", "Fingerprint Reader", "Thunderbolt 4"],
+    "inStock": true,
+    "ratings": [4.8, 4.9, 4.7, 5.0, 4.6],
+    "releaseDate": "2023-05-15",
+    "warranty": {
+      "period": 24,
+      "coverage": ["Parts", "Labor"]
+    }
+  },
+  {
+    "id": 2,
+    "product": "Smartphone",
+    "brand": "Nexus",
+    "model": "Ultra 12",
+    "price": 999.99,
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "display": "6.7-inch AMOLED",
+      "camera": "108MP Quad Camera"
+    },
+    "features": ["Wireless Charging", "5G", "Water Resistant"],
+    "inStock": true,
+    "ratings": [4.7, 4.8, 4.5, 4.9],
+    "releaseDate": "2023-03-10",
+    "warranty": {
+      "period": 12,
+      "coverage": ["Manufacturing Defects"]
+    }
+  },
+  {
+    "id": 3,
+    "product": "Headphones",
+    "brand": "SoundWave",
+    "model": "Pro Noise Cancel",
+    "price": 349.99,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "batteryLife": "30 hours",
+      "weight": "250g"
+    },
+    "features": ["Active Noise Cancellation", "Ambient Mode", "Voice Assistant"],
+    "inStock": false,
+    "ratings": [4.6, 4.7, 4.8, 4.5],
+    "releaseDate": "2022-11-20",
+    "warranty": {
+      "period": 12,
+      "coverage": ["Parts", "Accessories"]
+    }
+  },
+  {
+    "id": 4,
+    "product": "Smartwatch",
+    "brand": "FitTech",
+    "model": "Health Pro 4",
+    "price": 299.99,
+    "specs": {
+      "display": "1.4-inch AMOLED",
+      "connectivity": "Bluetooth, Wi-Fi",
+      "batteryLife": "7 days",
+      "waterResistant": true
+    },
+    "features": ["Heart Rate Monitor", "Sleep Tracking", "GPS", "SpO2 Sensor"],
+    "inStock": true,
+    "ratings": [4.4, 4.6, 4.5, 4.3],
+    "releaseDate": "2023-01-15",
+    "warranty": {
+      "period": 12,
+      "coverage": ["Technical Issues"]
+    }
+  },
+  {
+    "id": 5,
+    "product": "Tablet",
+    "brand": "TechMaster",
+    "model": "SlateTab Pro",
+    "price": 799.99,
+    "specs": {
+      "processor": "A14 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "display": "11-inch Retina",
+      "resolution": "2388 x 1668"
+    },
+    "features": ["Apple Pencil Support", "Face ID", "USB-C"],
+    "inStock": true,
+    "ratings": [4.9, 4.8, 5.0, 4.7],
+    "releaseDate": "2022-09-30",
+    "warranty": {
+      "period": 12,
+      "coverage": ["Hardware", "Software Support"]
+    }
+  }
+] 

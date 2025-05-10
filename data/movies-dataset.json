@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "genre": ["Drama"],
+    "runtime": 142,
+    "rating": 9.3,
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "awards": {
+      "oscars": 0,
+      "nominations": 7,
+      "wins": 21
+    },
+    "boxOffice": 28341469
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "genre": ["Crime", "Drama"],
+    "runtime": 175,
+    "rating": 9.2,
+    "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "awards": {
+      "oscars": 3,
+      "nominations": 11,
+      "wins": 29
+    },
+    "boxOffice": 134966411
+  },
+  {
+    "id": 3,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "genre": ["Crime", "Drama"],
+    "runtime": 154,
+    "rating": 8.9,
+    "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "awards": {
+      "oscars": 1,
+      "nominations": 7,
+      "wins": 70
+    },
+    "boxOffice": 107928762
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "runtime": 148,
+    "rating": 8.8,
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "awards": {
+      "oscars": 4,
+      "nominations": 8,
+      "wins": 157
+    },
+    "boxOffice": 836836967
+  },
+  {
+    "id": 5,
+    "title": "Parasite",
+    "year": 2019,
+    "director": "Bong Joon Ho",
+    "genre": ["Drama", "Thriller"],
+    "runtime": 132,
+    "rating": 8.6,
+    "cast": ["Kang-ho Song", "Sun-kyun Lee", "Yeo-jeong Jo"],
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "awards": {
+      "oscars": 4,
+      "nominations": 6,
+      "wins": 306
+    },
+    "boxOffice": 258773424
+  }
+] 

@@ -1,0 +1,12 @@
+{
+  "name": "mongodb-practice",
+  "version": "1.0.0",
+  "description": "MongoDB practice project with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.9.2"
+  }
+}
